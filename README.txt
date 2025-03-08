@@ -1,4 +1,4 @@
 Requires the FastLED animation library
 https://fastled.io
 
-or in the Arduino library manager
+FastLED can also be found in the Arduino library manager.
